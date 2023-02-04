@@ -18,6 +18,6 @@ the python dependency mainly use: tensorflow-cpu==2.11.0 numpy tqdm
 
 ## more details
 
-[zidea's blog about cs249r](https://blog.zidea.site/p/cs249r-%E5%B5%8C%E5%85%A5%E5%BC%8F%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)
+[zidea's blog about cs249r](https://blog.zidea.site/p/cs249r-%E5%B5%8C%E5%85%A5%E5%BC%8F%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/#mnist-example)
 
 [cs249r- tinyML](https://sites.google.com/g.harvard.edu/tinyml/home) 
