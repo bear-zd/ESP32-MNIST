@@ -10,6 +10,10 @@ spend of memory:
 > RAM:   [==        ]  23.8% (used 77852 bytes from 327680 bytes)
 > Flash: [========= ]  87.5% (used 1147233 bytes from 1310720 bytes)
 
+in order to use the screen to show the progress, you need to modify the user_setup.h in the hardware folder and copy it into the correct position
+
+<video src="C:\Users\zidea\Documents\Tencent Files\827569457\FileRecv\MobileFile\VID_20230208_140732.mp4"></video>
+
 ## train and process
 
 the model was trained on my computer cpu based on tensorflow-cpu. and the data was processed and upload to the server. Also build a server to send data to my ESP32 to get data.
