@@ -12,7 +12,7 @@ spend of memory:
 
 in order to use the screen to show the progress, you need to modify the user_setup.h in the hardware folder and copy it into the correct position
 
-<video src="C:\Users\zidea\Documents\Tencent Files\827569457\FileRecv\MobileFile\VID_20230208_140732.mp4"></video>
+![VID_20230208_140732 (2)](https://zideapicbed.oss-cn-shanghai.aliyuncs.com/img/VID_20230208_140732 (2).gif)
 
 ## train and process
 
