@@ -12,7 +12,7 @@ spend of memory:
 
 in order to use the screen to show the progress, you need to modify the user_setup.h in the hardware folder and copy it into the correct position
 
-![VID_20230208_140732 (2)](https://zideapicbed.oss-cn-shanghai.aliyuncs.com/img/VID_20230208_140732 (2).gif)
+![MNIST-ESP32](https://zideapicbed.oss-cn-shanghai.aliyuncs.com/MNIST-ESP32.gif)
 
 ## train and process
 
